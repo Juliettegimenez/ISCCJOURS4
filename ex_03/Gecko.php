@@ -14,7 +14,7 @@ class Gecko {
          if ($this->name)
             echo "Bye $this->name !\n";
          else
-            echo "Bye !/n";
+            echo "Bye !\n";
 }
 public function getName (){
     return $this->name;
